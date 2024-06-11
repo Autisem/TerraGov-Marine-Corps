@@ -1,0 +1,8 @@
+2024-06-11:
+  SomrNetwork:
+  - rscdel: "Flak armor\n/ \U0001F191"
+  ivanmixo:
+  - balance: Xenomorph resting now blocks you from unresting for 2 seconds, instead
+      of it being a 2 second progress bar to get up
+  usnpeepoo:
+  - bugfix: Puppeteers radial menu for blessings now have the correct icon in place
