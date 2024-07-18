@@ -238,3 +238,6 @@
       the SOM
   Xander3359:
   - balance: You can now open worn duffelbags with a 2 second channel
+2024-07-18:
+  Ldip999:
+  - bugfix: Loadout vendor now applies the GHMME flag
